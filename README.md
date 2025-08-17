@@ -1,0 +1,2 @@
+# Machinelearning
+O'zbek tildia
